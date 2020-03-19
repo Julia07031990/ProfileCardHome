@@ -9,7 +9,7 @@ body{
 }
 .profileCardContainer{
     box-sizing: border-box;
-    background-color: #373737;
+    background-color: #242424;
     text-align: center;
     position: absolute;
     top: 50%;
@@ -44,7 +44,7 @@ body{
 .userInfo > h2{
     margin-top: 15px;
     text-align: center;
-    color: #808080;
+    color: #adadad;
     padding: inherit;
 }
 .userInfo > h4{
@@ -71,7 +71,7 @@ body{
     font-family: "Averta Demo PE";
     font-weight: normal;
     font-size: 22px;
-    color: #6e6e6e;
+    color: #a5a5a5;
 }
 .avatarPreview > span > img{
     object-fit: cover;
